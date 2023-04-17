@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 * Html
 * Css
 * JavaScript
-* Php
 * NodeJs
 * ReactJs
 * Git & Github
+* Command Line
+* Linux
 - ⚡ Fun fact: ...
 
